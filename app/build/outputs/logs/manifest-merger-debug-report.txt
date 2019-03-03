@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:3:5-69
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:2:11-69
+permission#course.examples.ContentProviders.StringContentProvider.PERMISSION
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:5:5-6:18
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:5:17-97
+application
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:8:5-18:19
+	android:label
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:9:9-36
+	android:icon
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:10:9-45
+provider#course.examples.contentproviders.stringcontentprovider.StringsContentProvider
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:authorities
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:14:13-89
+	android:exported
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:15:13-36
+	android:permission
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:16:13-99
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml:13:13-105
+uses-sdk
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\ContentProviderCustom\app\src\main\AndroidManifest.xml
